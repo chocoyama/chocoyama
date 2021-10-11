@@ -58,6 +58,7 @@
     - 開発言語移行(Objective-C→Swift)
     - アーキテクチャ刷新(MVC→CleanArchitecture)
     - 開発手法導入(スクラム導入, LeanXP導入)
+    - オフショア開発ブリッジ
 
 ## 👨‍💻技術
 
