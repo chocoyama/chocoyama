@@ -20,3 +20,4 @@
 - [Qiita](https://qiita.com/chocoyama)
 - [Speaker Deck](https://speakerdeck.com/chocoyama)
 - [YouTube](https://www.youtube.com/channel/UC5phM3dhX0OAwbQVJ6ohWNA)
+- [note](https://note.com/chocoyama)
