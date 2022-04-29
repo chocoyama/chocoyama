@@ -12,8 +12,9 @@
   - ⭐UIKit
   - ⭐SwiftUI
 - Android
-- CrossPlatform
-  - ⭐Flutter
+  - Compose
+- Flutter
+  - Riverpod
 
 #### 開発手法
 
@@ -27,7 +28,8 @@
 - MVP
 - MVVM
 - CleanArchitecture, VIPER
-- Flux, Redux, The Composable Architecture
+- Flux, Redux
+- The Composable Architecture
 - Bloc
 
 #### API IF
@@ -62,7 +64,7 @@
 - Express
 - Django
 
-#### サービス
+#### クラウドサービス
 
 - Firebase
 - Google Cloud Platform
