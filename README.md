@@ -12,7 +12,7 @@
 
 ## 🎤 登壇実績
 
-- [iOSDC2021](https://fortee.jp/iosdc-japan-2021/proposal/165b1fa0-fc5d-45d3-8035-78b145e16037)
+- [iOSDC2021 SwiftUIとGraphQLでプロダクトの継続的な破壊に立ち向かう](https://fortee.jp/iosdc-japan-2021/proposal/165b1fa0-fc5d-45d3-8035-78b145e16037)
 - ["hey Talk" Engineers 新プロダクト「STORES レジ」を支えるエンジニアリング](https://hey.connpass.com/event/219835/)
 - [ラクマ x STORES LTイベント ~ iOS開発の裏側 ~](https://hey.connpass.com/event/236189/)
 
