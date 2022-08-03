@@ -8,13 +8,12 @@
 
 #### プラットフォーム
 
-- iOS
-  - ⭐UIKit
-  - ⭐SwiftUI
+- ⭐iOS
+  - UIKit
+  - SwiftUI
 - Android
   - Compose
-- Flutter
-  - Riverpod
+- ⭐Flutter
 
 #### 開発手法
 
@@ -30,7 +29,6 @@
 - CleanArchitecture, VIPER
 - Flux, Redux
 - The Composable Architecture
-- Bloc
 
 #### API IF
 
@@ -62,7 +60,6 @@
   
 - SpringBoot(Kotlin)
 - Express
-- Django
 
 #### クラウドサービス
 
