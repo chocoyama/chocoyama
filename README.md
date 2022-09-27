@@ -19,6 +19,7 @@
 
 - [note](https://note.com/chocoyama)
 - [Qiita](https://qiita.com/chocoyama)
+- [Zenn](https://zenn.dev/chocoyama)
 - [Speaker Deck](https://speakerdeck.com/chocoyama)
 
 ## 🎤 アウトプット
