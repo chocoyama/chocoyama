@@ -37,3 +37,4 @@
 - [【iOSDC2022】 20分でわかる！速習resultBuilder](https://fortee.jp/iosdc-japan-2022/proposal/6ea3cfbe-0749-4979-bd86-c896e6023c4b)
 - [【hey Product Blog】 iOSDC2022に登壇しました](https://tech.hey.jp/entry/2022/09/13/121258)
 - [【Zenn】 NavigationViewの不満点をNavigationStackで解決する](https://zenn.dev/chocoyama/articles/32d52cf66dd6ff)
+- [【Zenn】 令和4年のPush通知を改めて整理する](https://zenn.dev/chocoyama/articles/5b07eead5ae0aa)
