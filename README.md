@@ -39,3 +39,4 @@
 - [【Zenn】 NavigationViewの不満点をNavigationStackで解決する](https://zenn.dev/chocoyama/articles/32d52cf66dd6ff)
 - [【Zenn】 令和4年のPush通知を改めて整理する](https://zenn.dev/chocoyama/articles/5b07eead5ae0aa)
 - [【iOS App】 Workify](https://apps.apple.com/jp/app/workify/id1634699347)
+- [【STORES Product Blog】 ブログ上でSwiftUIのライブコーディングします](https://product.st.inc/entry/2022/12/16/085551)
