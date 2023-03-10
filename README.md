@@ -38,8 +38,10 @@
 - [【hey Product Blog】 iOSDC2022に登壇しました](https://tech.hey.jp/entry/2022/09/13/121258)
 - [【Zenn】 NavigationViewの不満点をNavigationStackで解決する](https://zenn.dev/chocoyama/articles/32d52cf66dd6ff)
 - [【Zenn】 令和4年のPush通知を改めて整理する](https://zenn.dev/chocoyama/articles/5b07eead5ae0aa)
-- [【iOS App】 Workify](https://apps.apple.com/jp/app/workify/id1634699347)
+- [【iOS App】 Workify (v1.0.0)](https://apps.apple.com/jp/app/workify/id1634699347)
 - [【STORES Product Blog】 ブログ上でSwiftUIのライブコーディングします](https://product.st.inc/entry/2022/12/16/085551)
 
 #### 2023
 - [【Zenn】 PRマージごとにDraftリリースノートを自動生成する](https://zenn.dev/chocoyama/articles/654a80f96d10ef)
+- [【iOS App】Favo (v1.0.0)](https://apps.apple.com/jp/app/favo/id1658792626)
+- [【iOS App】Wishly (v2.0.0)](https://apps.apple.com/jp/app/wishly/id1549204573)
