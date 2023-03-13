@@ -2,8 +2,8 @@
 
 #### STORES レジ　iOSアプリ開発
 
-- 開発環境
-  - SwiftUI, GraphQL
+- 主な技術
+  - SwiftUI, GraphQL, Bluetooth, SPM MultiModule
 - 業務内容
   - 新規立ち上げ
   - 技術選定
@@ -14,8 +14,8 @@
 
 #### その他探索型開発
 
-- 開発環境
-  - SwiftUI, GraphQL
+- 主な技術
+  - SwiftUI, GraphQL, SPM MultiModule
 - 業務内容
   - モバイル開発担当1名での仮説検証を目的とした開発
   - プロトタイプ、βプロダクトの0→1開発とその検証
@@ -27,7 +27,7 @@
 
 #### PayPayフリマ BE API開発
 
-- 開発環境
+- 主な技術
   - Kotlin, SprintBoot
   - TypeScript, Loopback
   - XP（ペアプロ, TDD)開発
@@ -37,7 +37,7 @@
 
 #### PayPayフリマ iOSアプリ開発
 
-- 開発環境
+- 主な技術
   - Swift, UIKit
   - LeanXP（ペアプロ, TDD)開発
 - 業務内容
@@ -48,7 +48,7 @@
 
 #### ヤフオク! iOSアプリ開発
 
-- 開発環境
+- 主な技術
   - Swift, UIKit
   - LeanXP（ペアプロ, TDD)開発
 - 業務内容
@@ -58,7 +58,7 @@
 
 #### Yahoo!ショッピング BE API開発
 
-- 開発環境
+- 主な技術
   - PHP
   - ウォーターフォール開発
 - 業務内容
@@ -67,7 +67,7 @@
 
 #### Yahoo!ショッピング iOSアプリ開発
 
-- 開発環境
+- 主な技術
   - Swift/Objective-C, UIKit
   - ウォーターフォール・スクラム・LeanXP開発
 - 業務内容
