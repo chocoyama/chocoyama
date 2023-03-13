@@ -29,6 +29,7 @@
 - CleanArchitecture, VIPER
 - Flux, Redux
 - The Composable Architecture
+- Multi Module Architecture
 
 #### API IF
 
