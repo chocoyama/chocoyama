@@ -6,7 +6,7 @@
 
 - [技術スタック](tech.md)
 
-## 📱 ポートフォリオ
+## 📱 個人プロダクト
 
 - [AppStore](https://apps.apple.com/jp/developer/takuya-yokoyama/id1097521402)
 
