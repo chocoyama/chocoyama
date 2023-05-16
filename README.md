@@ -46,3 +46,4 @@
 - [【iOS App】Favo (v1.0.0)](https://apps.apple.com/jp/app/favo/id1658792626)
 - [【iOS App】Wishly (v2.0.0)](https://apps.apple.com/jp/app/wishly/id1549204573)
 - [【CodeZine】【WWDC2022総復習】「機能不足」は過去の話、さらに表現力を増したSwiftUI](https://codezine.jp/article/detail/17313)
+- [【Ebisu.mobile】ハードウェア対応のリアル](https://speakerdeck.com/chocoyama/hatoueadui-ying-noriaru)
