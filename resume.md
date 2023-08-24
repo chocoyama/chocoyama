@@ -1,4 +1,4 @@
-# 2023.07 ~ 2023.06 株式会社LayerX
+# 2023.07 ~ 株式会社LayerX
 
 - 主な技術
   - Flutter, GraphQL
