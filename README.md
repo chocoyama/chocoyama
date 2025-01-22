@@ -27,7 +27,7 @@
 #### 2024
 
 - [CursorとDesign Docで実現する漸進的なアーキテクチャ改善](https://tech.layerx.co.jp/entry/chocoyama/2024/12/23)
-- [【FlutterKaigi 2024】Effective Form ~Flutterによる複雑なフォーム開発の実践~](https://speakerdeck.com/chocoyama/flutterkaigi2024-effective-form-flutterniyorufu-za-nahuomukai-fa-noshi-jian)
+- [【FlutterKaigi 2024】Effective Form 〜Flutterによる複雑なフォーム開発の実践〜](https://speakerdeck.com/chocoyama/flutterkaigi2024-effective-form-flutterniyorufu-za-nahuomukai-fa-noshi-jian)
 
 #### 2023
 - [【特別対談】 Flutterエンジニアの今オレ x iOSエンジニアの過去オレ](https://tech.layerx.co.jp/entry/2023/12/06/163409)
