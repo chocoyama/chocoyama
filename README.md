@@ -24,7 +24,14 @@
 
 ## 🎤 アウトプット
 
+#### 2024
+
+- [CursorとDesign Docで実現する漸進的なアーキテクチャ改善](https://tech.layerx.co.jp/entry/chocoyama/2024/12/23)
+- [【FlutterKaigi 2024】Effective Form ~Flutterによる複雑なフォーム開発の実践~](https://speakerdeck.com/chocoyama/flutterkaigi2024-effective-form-flutterniyorufu-za-nahuomukai-fa-noshi-jian)
+
 #### 2023
+- [【特別対談】 Flutterエンジニアの今オレ x iOSエンジニアの過去オレ](https://tech.layerx.co.jp/entry/2023/12/06/163409)
+- [【iOSDC2023】聴いて話すiOS 現実世界の「音」との連携](https://speakerdeck.com/chocoyama/iosdc2023-ting-itehua-suios-xian-shi-shi-jie-no-yin-tonolian-xi)
 - [【Zenn】 PRマージごとにDraftリリースノートを自動生成する](https://zenn.dev/chocoyama/articles/654a80f96d10ef)
 - [【iOS App】Favo (v1.0.0)](https://apps.apple.com/jp/app/favo/id1658792626)
 - [【iOS App】Wishly (v2.0.0)](https://apps.apple.com/jp/app/wishly/id1549204573)
