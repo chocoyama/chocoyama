@@ -2,18 +2,18 @@
 
 #### 言語
 
-- ⭐Swift/Objective-C
-- Kotlin
+- Swift/Objective-C
 - Dart
+- Kotlin
 
 #### プラットフォーム
 
-- ⭐iOS
+- iOS
   - UIKit
   - SwiftUI
+- Flutter
 - Android
   - Compose
-- ⭐Flutter
 
 #### 開発手法
 
@@ -36,7 +36,7 @@
 - REST API
 - GraphQL
 
-## フロントエンド
+## フロントエンド （少し）
 
 #### 言語
 
@@ -48,7 +48,7 @@
 - React/Next.js
 - Vue/Nuxt.js
 
-## バックエンド
+## バックエンド （少し）
 
 #### 言語
   
