@@ -24,6 +24,11 @@
 
 ## 🎤 アウトプット
 
+#### 2025
+
+- [【レバテックLab AIの出力の質を上げる！チームの集合知を注入する方法】AIのAIによるAIのための出力評価と改善](https://speakerdeck.com/chocoyama/ainoainiyoruainotamenochu-li-ping-jia-togai-shan)
+- [モバイルチームの AI ドリブンテックイベントの紹介 ── No-Coding, AI Code Hack Day](https://tech.layerx.co.jp/entry/2025/04/25/191751)
+
 #### 2024
 
 - [CursorとDesign Docで実現する漸進的なアーキテクチャ改善](https://tech.layerx.co.jp/entry/chocoyama/2024/12/23)
