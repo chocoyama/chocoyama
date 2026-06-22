@@ -26,6 +26,7 @@
 
 #### 2026
 
+- [AI時代は自分専用ツールを作って生産性アゲ⤴︎⤴︎](https://tech.youtrust.co.jp/entry/2026/06/22/131028)
 - [AIのない1の世界と、AIのある2の世界](https://tech.youtrust.co.jp/entry/2026/01/23/115123)
 
 #### 2025
